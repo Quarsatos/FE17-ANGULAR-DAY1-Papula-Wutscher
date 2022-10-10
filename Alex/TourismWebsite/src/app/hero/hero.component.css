@@ -1,0 +1,26 @@
+.hero-image {
+  background-image: url(https://images.pexels.com/photos/813071/pexels-photo-813071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(0, 0, 0);
+}
+.hero-text p {
+  background-color: red;
+  margin: 0;
+}
+.hero-text h1 {
+  background-color: red;
+  margin: 0;
+}/*# sourceMappingURL=hero.component.css.map */
